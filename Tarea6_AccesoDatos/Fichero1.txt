@@ -1,0 +1,1 @@
+Alumno [NIA-> 54, NOMBRE-> Mihai, APELLIDOS-> , GENERO-> M, FechaDeNacimiento-> Tue Feb 23 00:00:00 CET 1999, CICLO-> DAM, CURSO-> DAM, GRUPO-> A]

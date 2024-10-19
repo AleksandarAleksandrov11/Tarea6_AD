@@ -1,0 +1,3 @@
+Alumno [NIA-> 2, NOMBRE-> Alex, APELLIDOS-> , GENERO-> F, FechaDeNacimiento-> Sat Nov 11 00:00:00 CET 2000, CICLO-> ASIR, CURSO-> ASIR, GRUPO-> F]
+Alumno [NIA-> 2, NOMBRE-> M, APELLIDOS-> Perez, GENERO-> F, FechaDeNacimiento-> Sat Nov 11 00:00:00 CET 1111, CICLO-> d, CURSO-> d, GRUPO-> d]
+Alumno [NIA-> 2, NOMBRE-> Pepe, APELLIDOS-> , GENERO-> d, FechaDeNacimiento-> Sat Nov 11 00:00:00 CET 1111, CICLO-> d, CURSO-> d, GRUPO-> s]

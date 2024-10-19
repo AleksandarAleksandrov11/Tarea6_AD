@@ -1,0 +1,3 @@
+Alumno [NIA-> 54, NOMBRE-> Mihai, APELLIDOS-> , GENERO-> M, FechaDeNacimiento-> Tue Feb 23 00:00:00 CET 1999, CICLO-> DAM, CURSO-> DAM, GRUPO-> A]
+Alumno [NIA-> 23, NOMBRE-> f, APELLIDOS-> , GENERO-> s, FechaDeNacimiento-> Sat Nov 11 00:00:00 CET 1111, CICLO-> dfad, CURSO-> dfad, GRUPO-> d]
+Alumno [NIA-> 2, NOMBRE-> d, APELLIDOS-> , GENERO-> f, FechaDeNacimiento-> Sat Nov 11 00:00:00 CET 1111, CICLO-> d, CURSO-> d, GRUPO-> f]
